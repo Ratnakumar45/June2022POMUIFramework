@@ -10,11 +10,7 @@ public class F2 {
 	public void login() {
 		String un = "ahmed";
 		String pwd = "ahmed123";
+		System.out.println("login is done");
 	}
 
-	
-	public void login() {
-		String un = "naveen";
-		String pwd = "12345";
-	}
 }
