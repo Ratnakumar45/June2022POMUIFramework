@@ -6,5 +6,10 @@ public class F2 {
 
 		int p = 10;
 	}
+	
+	public void login() {
+		String un = "ahmed";
+		String pwd = "ahmed123";
+	}
 
 }
